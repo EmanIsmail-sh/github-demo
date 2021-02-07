@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 this is text file 
 an example website
+=======
+test new branch 
+>>>>>>> title-change
